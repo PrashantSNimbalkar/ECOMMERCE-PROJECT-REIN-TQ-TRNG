@@ -1,0 +1,8 @@
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.csproj.AssemblyReference.cache
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.GeneratedMSBuildEditorConfig.editorconfig
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.AssemblyInfoInputs.cache
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.AssemblyInfo.cs
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.csproj.CoreCompileInputs.cache
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.MvcApplicationPartsAssemblyInfo.cache
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.RazorAssemblyInfo.cache
+G:\EcommerceProjectReinTrng\obj\Debug\net5.0\EcommerceProjectReinTrng.RazorAssemblyInfo.cs
